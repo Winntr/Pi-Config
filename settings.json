@@ -1,0 +1,16 @@
+{
+  "lastChangelogVersion": "0.75.3",
+  "defaultProvider": "github-copilot",
+  "defaultModel": "gpt-5.4-mini",
+  "defaultThinkingLevel": "medium",
+  "packages": [
+    "npm:pi-subagents",
+    "npm:context-mode",
+    "npm:pi-mcp-adapter",
+    "npm:@plannotator/pi-extension",
+    "npm:pi-powerline-footer",
+    "npm:pi-lens",
+    "npm:@patriceckhart/pi-todo"
+  ],
+  "quietStartup": true
+}
