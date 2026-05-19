@@ -10,7 +10,8 @@
     "npm:@plannotator/pi-extension",
     "npm:pi-powerline-footer",
     "npm:pi-lens",
-    "npm:@patriceckhart/pi-todo"
+    "npm:@patriceckhart/pi-todo",
+    "npm:@aliou/pi-guardrails"
   ],
   "quietStartup": true
 }
