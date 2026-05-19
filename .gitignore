@@ -1,12 +1,4 @@
-# Ignore sessions/chats
-sessions/
-
-# Ignore auth tokens/keys
-auth.json
-.env
-
-# Ignore node_modules if any leak into the root
-node_modules/
-
-# pi managed npm folder ignores its own contents, but we can ignore it fully or let its .gitignore handle it
-# We'll explicitly ignore auth.json and sessions/
+agent/auth.json
+agent/sessions/
+context-mode/
+models.json
